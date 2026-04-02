@@ -47,12 +47,12 @@ All you need is a JavaScript runtime:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/unique-sorted-union.git
+   git clone https://github.com/lorddrago12/Unique-Sorted-Union.git
    ```
 
 2. **Navigate to the project folder**
    ```bash
-   cd unique-sorted-union
+   cd Unique-Sorted-Union
    ```
 
 3. **Run the program**
